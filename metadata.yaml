@@ -1,0 +1,33 @@
+_repo: Theodore-Roosevelt--An-Autobiography_3335
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roosevelt, Theodore
+    aliases:
+    - United States President (1901-1909)
+    - Roosevelt, Teddy
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '729'
+    url: http://www.gutenberg.org/2009/agents/729
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Roosevelt
+description: The 26th president of the United States, Theodore Roosevelt was a quintessential
+  American whose bold personality shines through in every line of this deeply engaging
+  memoir. In addition to detailing his contributions in Washington, D.C., the autobiography
+  lavishes attention on the outdoor exploits and early conservation efforts that were
+  among Roosevelt's passions.
+gutenberg_issued: '2006-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3335'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Presidents -- United States -- Biography'
+- !lcsh 'Roosevelt, Theodore, 1858-1919'
+- !lcc 'E740'
+- GITenberg
+title: 'Theodore Roosevelt: An Autobiography'
+url: http://www.gutenberg.org/ebooks/3335
