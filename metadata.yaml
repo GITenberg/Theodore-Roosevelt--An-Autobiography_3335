@@ -1,5 +1,8 @@
 _repo: Theodore-Roosevelt--An-Autobiography_3335
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Roosevelt, Theodore
@@ -16,6 +19,8 @@ description: The 26th president of the United States, Theodore Roosevelt was a q
   memoir. In addition to detailing his contributions in Washington, D.C., the autobiography
   lavishes attention on the outdoor exploits and early conservation efforts that were
   among Roosevelt's passions.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3335#Theodore-Roosevelt--An-Autobiography
 gutenberg_issued: '2006-04-06'
 gutenberg_type: Text
 identifiers:
